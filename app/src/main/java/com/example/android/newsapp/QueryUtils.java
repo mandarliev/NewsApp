@@ -28,7 +28,7 @@ import java.util.Locale;
 public class QueryUtils {
 
     /**
-     * Query the Guardian dataset and return a list of News} objects.
+     * Query the Guardian dataset and return a list of News objects.
      */
     static String createStringUrl() {
         Uri.Builder builder = new Uri.Builder();
